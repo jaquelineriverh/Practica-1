@@ -13,6 +13,6 @@ prueba de reporte en github
 Hola como estas
 ```
 
-*hola*
+*cursiva*
 
 **negrita**
